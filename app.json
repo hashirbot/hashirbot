@@ -1,9 +1,9 @@
 {
-    "name": "HASBOT V1",
-    "description": "HASBOT V1 WHATSAPP BOT",
+    "name": "Jimbrootan 🤸",
+    "description": "Jimbrootan - Whatsapp Bot",
     "logo": "https://avatars.githubusercontent.com/u/72667834?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Muhammedhashirm009/hasbot",
+    "repository": "https://github.com/Mikhaiel/Jinnh",
     "Join Our Whatsapp Support Group": "https://chat.whatsapp.com/Buyz3sEdhaWB0Rp7gtsKjd",
     "stack": "container",
     "env": {
@@ -104,7 +104,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "WhatsAsena Working Type. If you use “public�?, everyone can use the bot. Else if you use “private�?, only you can use your bot.",
+            "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
